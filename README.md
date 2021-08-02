@@ -2,12 +2,12 @@
 
 - 🔭 Hoje sou estagiário de Tecnologia
 - 🌱 Formação acadêmica em Gestão da Tecnologia da Informação
-   Habilidades:
--     JavaScript, html, css, bootstrap, node
--     SQL (MSSQL, MySQL)
--     Nuvens AWS
--     Docker
--     Linux, Windows
+- 🌱 Habilidades:
+- 🌱 JavaScript, html, css, bootstrap, node
+- 🌱 SQL (MSSQL, MySQL)
+- 🌱 Nuvens AWS
+- 🌱 Docker
+- 🌱 Linux, Windows
 - 😄 Pronouns: ele/dele
 
 
