@@ -2,6 +2,7 @@
 
 - 🔭 Hoje sou estagiário de Tecnologia
 - 🌱 Formação acadêmica em Gestão da Tecnologia da Informação
+-     Estudante de programação 
 - 😄 Pronouns: ele/dele
 
 
