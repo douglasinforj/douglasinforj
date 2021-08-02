@@ -3,7 +3,7 @@
 - 🔭 Hoje sou estagiário de Tecnologia
 - 🌱 Formação acadêmica em Gestão da Tecnologia da Informação
 - 🌱 JavaScript, html, css, bootstrap, node
-- 🌱 SQL (MSSQL, MySQL)
+- 🌱 SQL (MSSQL)
 - 🌱 Nuvens AWS
 - 🌱 Docker
 - 🌱 Linux, Windows
