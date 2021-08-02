@@ -2,7 +2,6 @@
 
 - 🔭 Hoje sou estagiário de Tecnologia
 - 🌱 Formação acadêmica em Gestão da Tecnologia da Informação
-- 🌱 Habilidades:
 - 🌱 JavaScript, html, css, bootstrap, node
 - 🌱 SQL (MSSQL, MySQL)
 - 🌱 Nuvens AWS
