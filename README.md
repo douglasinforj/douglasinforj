@@ -7,7 +7,7 @@
 - 🌱 Nuvens AWS
 - 🌱 Docker
 - 🌱 Linux, Windows
-- 😄 Pronouns: ele/dele
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasinforj&show_icons=true&theme=dark)
