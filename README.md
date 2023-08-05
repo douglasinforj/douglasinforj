@@ -1,12 +1,13 @@
 ### Olá! Eu sou o Douglas Roberto da Silva
 
-- 🔭 Hoje sou estagiário de Tecnologia
+- 🔭 Analista de Suporte Computacional
 - 🌱 Formação acadêmica em Gestão da Tecnologia da Informação
-- 🌱 JavaScript, html, css, bootstrap, node
-- 🌱 SQL (MSSQL)
-- 🌱 Nuvens AWS
-- 🌱 Docker
-- 🌱 Linux, Windows
+- 🌱 Suporte SAP B1
+- 🌱 Suporte Windows Server
+- 🌱 Suporte Linux
+- 🌱 Desenvolvimento Python | Django | API
+- 🌱 Desenvolvimento React (FrontEnd)
+- 🌱 Analise de Dados (PostGree, SQLServer, Mysql, Oracle)
 
 
 
