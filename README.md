@@ -6,8 +6,7 @@
 - 🌱 Suporte Windows Server
 - 🌱 Suporte Linux
 - 🌱 Desenvolvimento Python | Django | API
-- 🌱 Desenvolvimento React (FrontEnd)
-- 🌱 Analise de Dados (PostGree, SQLServer, Mysql, Oracle)
+- 🌱 Analise de Dados com SQL
 
 
 
