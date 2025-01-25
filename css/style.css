@@ -16,9 +16,10 @@ body{
 }
 
 .slides {
-    width: 400%;
+    width: 600%;
     height: 400px;
     display: flex;
+    transition: margin-left 1s ease-in-out; /* Adicionando suavidade na transição */
 }
 
 .slides input {
@@ -27,11 +28,14 @@ body{
 }
 
 .slide{
-    width: 25%;
+    width: 16.66%;
     position: relative;
+    transition: 2s;
 }
 .slide img{
-    width: 800px;
+    width: 100%;  /* Imagens agora preenchem 100% da largura do container */
+    height: 100%;  /* Imagens preenchem 100% da altura do container */
+    object-fit: cover;  /* Garante que a imagem cubra toda a área sem deformar */
 }
 .manual-navigation{
     position: absolute;
@@ -56,22 +60,28 @@ body{
     background-color: green;
 }
 
-#radio1:checked ~ .first{
+/* Estilo para a navegação */
+#radio1:checked ~ .first {
     margin-left: 0;
 }
-#radio2:checked ~ .first{
-    margin-left: -25%;
+#radio2:checked ~ .first {
+    margin-left: -16.66%;  /* Ajuste proporcional para 6 imagens */
 }
-#radio3:checked ~ .first{
+#radio3:checked ~ .first {
+    margin-left: -33.33%;  /* Ajuste proporcional para 6 imagens */
+}
+#radio4:checked ~ .first {
     margin-left: -50%;
 }
-#radio4:checked ~ .first{
-    margin-left: -75%;
+#radio5:checked ~ .first {
+    margin-left: -66.66%; /* Ajuste proporcional para 6 imagens */
+}
+#radio6:checked ~ .first {
+    margin-left: -83.33%; /* Ajuste proporcional para 6 imagens */
 }
 
-/*Botões abaixo*/
-
-.navigation-auto div{
+/* Botões de navegação */
+.navigation-auto div {
     border: 1px solid #20a6ff;
     padding: 5px;
     border-radius: 10px;
@@ -79,28 +89,34 @@ body{
     transition: 0.5s;
 }
 
-.navigation-auto{
+.navigation-auto {
     position: absolute;
     width: 800px;
     margin-top: 420px;
     display: flex;
     justify-content: center;
 }
-.navigation-auto div:not(:last-child){
+
+.navigation-auto div:not(:last-child) {
     margin-right: 40px;
 }
 
-/*botões pintados ao clicar*/
-#radio1:checked ~ .navigation-auto .auto-btn1{
+/* Botões pintados ao clicar */
+#radio1:checked ~ .navigation-auto .auto-btn1 {
     background-color: green;
 }
-#radio2:checked ~ .navigation-auto .auto-btn2{
+#radio2:checked ~ .navigation-auto .auto-btn2 {
     background-color: green;
 }
-#radio3:checked ~ .navigation-auto .auto-btn3{
+#radio3:checked ~ .navigation-auto .auto-btn3 {
     background-color: green;
 }
-
-#radio4:checked ~ .navigation-auto .auto-btn4{
+#radio4:checked ~ .navigation-auto .auto-btn4 {
+    background-color: green;
+}
+#radio5:checked ~ .navigation-auto .auto-btn5 {
+    background-color: green;
+}
+#radio6:checked ~ .navigation-auto .auto-btn6 {
     background-color: green;
 }
