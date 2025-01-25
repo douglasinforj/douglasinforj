@@ -1,4 +1,3 @@
-[🎨 Visualizar Banner Animado](https://douglasinforj.github.io/douglasinforj/)
 
 <p align="center">💻 Apaixonado por Programar | Criando Soluções que Transformam Ideias em Realidade
 
