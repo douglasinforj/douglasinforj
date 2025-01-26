@@ -67,23 +67,20 @@ Cada linha de código representa minha dedicação em aprender, inovar e contrib
 
 ## Contacts:
 
-<div> 
-
-<a href = "mailto:douglasitpro@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/douglas-roberto-da-silva-7083b96a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-
-
-<a href="https://www.youtube.com/@AmenteAprendeTi" target="_blank">
-  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
- 
- <a href="curriculoonline-8477a0py4-douglasitpros-projects.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/-Currículo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Currículo Online">
-</a>
-
-
-
-</div>&nbsp;&nbsp;
+<div style="display: flex; gap: 10px;"> 
+  <a href="mailto:douglasitpro@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/douglas-roberto-da-silva-7083b96a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.youtube.com/@AmenteAprendeTi" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://curriculoonline-8477a0py4-douglasitpros-projects.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Currículo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Currículo Online">
+  </a>
+</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
