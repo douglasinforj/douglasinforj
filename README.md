@@ -1,8 +1,11 @@
 
+<<<<<<< HEAD
 [🎨 Visualizar Banner Animado](https://douglasinforj.github.io/douglasinforj/)
 
 
 
+=======
+>>>>>>> 7154ab978efa028938cb027940436859795767f7
 <p align="center">💻 Apaixonado por Programar | Criando Soluções que Transformam Ideias em Realidade
 
 Sou um entusiasta de tecnologia e programação, sempre em busca de novos desafios para transformar ideias em soluções práticas. Aqui você encontrará projetos que vão desde APIs em Django, Flask e NodeJS até interfaces interativas em React e Streamelit. Gosto de explorar integrações, como sistemas de pagamento e chatbots, e de criar aplicações completas, como gerenciadores de estoque, sistemas de agendamento, plataformas para análise de dados ou programas que possam ser utilizados em regras de negócios.
