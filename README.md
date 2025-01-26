@@ -1,7 +1,7 @@
 
 
 
-<img src="image/imagem1.gif" alt="Meu Banner Animado" width="800px">
+<img src="image/imagem1.gif" alt="Meu Banner Animado" width="300px">
 
 <p align="center">💻 Apaixonado por Programar | Criando Soluções que Transformam Ideias em Realidade
 
