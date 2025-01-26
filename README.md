@@ -63,13 +63,6 @@ Cada linha de código representa minha dedicação em aprender, inovar e contrib
 
 &nbsp;
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 
 ## Contacts:
