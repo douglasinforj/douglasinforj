@@ -1,5 +1,7 @@
 
-![Meu Banner Animado](image/imagem1.gif)
+
+
+<img src="image/imagem1.gif" alt="Meu Banner Animado" width="100%" style="display: block; margin: auto;">
 
 <p align="center">💻 Apaixonado por Programar | Criando Soluções que Transformam Ideias em Realidade
 
