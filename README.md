@@ -14,22 +14,6 @@ Cada linha de código representa minha dedicação em aprender, inovar e contrib
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasinforj&layout=compact&theme=radical" />
 </a>
 
-
-
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=douglasinforj&show_icons=true&theme=dracula" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasinforj&layout=compact&theme=dracula" />
-    </td>
-  </tr>
-</table>
-
-
-
 ## Skills
 
 #### Stack Backend: 
