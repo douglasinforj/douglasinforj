@@ -10,8 +10,8 @@ Cada linha de código representa minha dedicação em aprender, inovar e contrib
 <a href="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasinforj&layout=compact&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasinforjO&layout=compact&theme=radical" />
 </a>
 
 
