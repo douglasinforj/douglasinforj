@@ -15,7 +15,7 @@ Cada linha de código representa minha dedicação em aprender, inovar e contrib
 <table>
   <tr>
     <td>
-      ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=douglasinforj&show_icons=true&theme=radical)
+      <img src="https://github-readme-stats.vercel.app/api?username=douglasinforj&show_icons=true&theme=radical" />
     </td>
     <td>
       ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasinforj&layout=compact&theme=radical)
