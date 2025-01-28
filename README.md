@@ -15,10 +15,10 @@ Cada linha de código representa minha dedicação em aprender, inovar e contrib
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=douglasinforj&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=douglasinforj&show_icons=true&theme=dracula" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasinforj&layout=compact&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasinforj&layout=compact&theme=dracula" />
     </td>
   </tr>
 </table>
