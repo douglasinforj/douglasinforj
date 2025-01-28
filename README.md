@@ -7,6 +7,9 @@ Sou um entusiasta de tecnologia e programação, sempre em busca de novos desafi
 
 Cada linha de código representa minha dedicação em aprender, inovar e contribuir para um mundo mais conectado e eficiente. Sinta-se à vontade para explorar meus repositórios, compartilhar feedback e colaborar em projetos! 🚀</p>&nbsp;
 
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=douglasinforj&show_icons=true&theme=radical)
+
 ## Skills
 
 #### Stack Backend: 
