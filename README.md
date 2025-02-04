@@ -18,6 +18,8 @@ Cada linha de código representa minha dedicação em aprender, inovar e contrib
 </a>
 
 ![Total de Repositórios](https://img.shields.io/github/repos/douglasinforj?style=for-the-badge)
+![Total de Repositórios](https://img.shields.io/github/repos/douglasinforj?style=for-the-badge)
+
 
 
 ## Skills
