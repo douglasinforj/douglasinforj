@@ -17,7 +17,7 @@ Cada linha de código representa minha dedicação em aprender, inovar e contrib
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasinforj&layout=compact&theme=radical" />
 </a>
 
-![Total de Repositórios](https://img.shields.io/github/repos/seu-usuario?style=for-the-badge)
+![Total de Repositórios](https://img.shields.io/github/repos/douglasinforj?style=for-the-badge)
 
 
 ## Skills
