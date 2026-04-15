@@ -4,7 +4,7 @@
 
 <p align="center">💻 Apaixonado por Programar | Criando Soluções que Transformam Ideias em Realidade
 
-Sou um entusiasta de tecnologia e programação, sempre em busca de novos desafios para transformar ideias em soluções práticas. Aqui você encontrará projetos que vão desde APIs em Django, Flask e NodeJS até interfaces interativas em React e Streamlit. Gosto de explorar integrações, como sistemas de pagamento e chatbots, e de criar aplicações completas, como gerenciadores de estoque, sistemas de agendamento, plataformas para análise de dados ou programas que possam ser utilizados em regras de negócios.
+Sou um entusiasta de tecnologia e programação, sempre em busca de novos desafios para transformar ideias em soluções práticas. Aqui você encontrará projetos que vão desde APIs em Django, Flask e NodeJS até interfaces interativas. Gosto de explorar integrações, como sistemas de pagamento e chatbots, e de criar aplicações completas, como gerenciadores de estoque, sistemas de agendamento, plataformas para análise de dados ou programas que possam ser utilizados em regras de negócios.
 
 Cada linha de código representa minha dedicação em aprender, inovar e contribuir para um mundo mais conectado e eficiente. Sinta-se à vontade para explorar meus repositórios, compartilhar feedback e colaborar em projetos! 🚀</p>&nbsp;
 
@@ -25,6 +25,7 @@ Cada linha de código representa minha dedicação em aprender, inovar e contrib
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://shields.io)
 
 #### Stack Server:
 
