@@ -10,12 +10,11 @@ Cada linha de código representa minha dedicação em aprender, inovar e contrib
 
 ## Estatísticas do GitHub
 
-<a href="https://github-readme-stats.vercel.app/api?username=douglasinforj&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasinforj&show_icons=true&theme=radical" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasinforj&layout=compact&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasinforj&layout=compact&theme=radical" />
-</a>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasinforj&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasinforj&layout=compact&langs_count=8&theme=radical"/>
+</p>
 
 
 ## Skills
