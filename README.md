@@ -1,93 +1,104 @@
-## Olá!!! Eu sou o Douglas,
-&nbsp;
+# 👨‍💻 Douglas Silva
 
+Backend Developer focado em construção de APIs, automações e aplicações web utilizando Java, Spring Boot, Python, Django e Node.js.
 
-<p align="center">💻 Apaixonado por Programar | Criando Soluções que Transformam Ideias em Realidade
+Tenho cerca de 2 anos de experiência prática desenvolvendo projetos pessoais, sistemas web e integrações. Minha atuação é voltada principalmente para backend, arquitetura de APIs, banco de dados e infraestrutura, mas também possuo conhecimento em frontend para construção de interfaces funcionais e integrações completas.
 
-Sou um entusiasta de tecnologia e programação, sempre em busca de novos desafios para transformar ideias em soluções práticas. Aqui você encontrará projetos que vão desde APIs em Django, Flask e NodeJS até interfaces interativas. Gosto de explorar integrações, como sistemas de pagamento e chatbots, e de criar aplicações completas, como gerenciadores de estoque, sistemas de agendamento, plataformas para análise de dados ou programas que possam ser utilizados em regras de negócios.
+Também possuo experiência com infraestrutura e ambientes server, trabalhando com Linux, Windows Server, Docker, Nginx, bancos de dados relacionais e deploy de aplicações.
 
-Cada linha de código representa minha dedicação em aprender, inovar e contribuir para um mundo mais conectado e eficiente. Sinta-se à vontade para explorar meus repositórios, compartilhar feedback e colaborar em projetos! 🚀</p>&nbsp;
+---
 
-## Estatísticas do GitHub
+## 🚀 Tecnologias e Foco Atual
+
+- Desenvolvimento Backend com Java + Spring Boot
+- APIs REST com Django REST Framework e Node.js
+- Integração entre sistemas e automações
+- Banco de Dados SQL e modelagem
+- Docker e ambientes Linux
+- Estruturação e deploy de aplicações web
+
+---
+
+## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasinforj&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasinforj&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasinforj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasinforj&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
+---
 
-## Skills
+# ⚙️ Backend Stack
 
-#### Stack Backend: 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-![Django REST Framework](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+---
 
-#### Stack Server:
+# 🗄️ Banco de Dados
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
-![IIS](https://img.shields.io/badge/IIS-0078D7?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### Stack DataBase:
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+# 🐳 Infraestrutura & DevOps
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
-#### Stack Frontend:
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+# 🎨 Frontend Básico
 
-#### Other:
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+---
 
+# 🛠️ Ferramentas
 
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-4285F4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+---
 
-#### Workstation Tools:
+# 📫 Contato
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+<div style="display: flex; gap: 10px; flex-wrap: wrap;"> 
 
+<a href="mailto:douglasitpro@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
+<a href="https://www.linkedin.com/in/douglas-roberto-da-silva-7083b96a" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
+<a href="https://www.youtube.com/@AmenteAprendeTi" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
 
-&nbsp;
-&nbsp;
+<a href="https://curriculoonline-8477a0py4-douglasitpros-projects.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Currículo_Online-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 
-
-## Contacts:
-
-<div style="display: flex; gap: 10px;"> 
-  <a href="mailto:douglasitpro@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/douglas-roberto-da-silva-7083b96a" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.youtube.com/@AmenteAprendeTi" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://curriculoonline-8477a0py4-douglasitpros-projects.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Currículo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Currículo Online">
-  </a>
 </div>
 
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+</p>
