@@ -1,4 +1,4 @@
-# 👨‍💻 Douglas Silva
+# Douglas R. Silva
 
 Backend Developer focado em construção de APIs, automações e aplicações web utilizando Java, Spring Boot, Python, Django e Node.js.
 
