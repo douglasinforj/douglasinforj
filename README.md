@@ -10,8 +10,8 @@ Também possuo experiência com infraestrutura e ambientes server, trabalhando c
 
 ## 🚀 Tecnologias e Foco Atual
 
-- Desenvolvimento Backend com Java
-- Python + Django REST Framework e Node.js
+- Desenvolvimento Backend com Java + Spring
+- Desenvolvimento Python + Django REST Framework e Node.js
 - Integração entre sistemas e automações
 - Banco de Dados SQL e modelagem
 - Docker e ambientes Linux
