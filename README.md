@@ -75,6 +75,16 @@ Também possuo experiência com infraestrutura e ambientes server, trabalhando c
 
 ---
 
+### 🚀 Projetos Backend
+
+| Projeto | Tecnologias |
+|----------|------------|
+| [vendas_ia_mcp_java](https://github.com/douglasinforj/vendas_ia_mcp_java) | Java, Spring Boot, MySQL |   
+| [API JWT](https://github.com/douglasinforj/api-jwt) | Spring Security, JWT |
+| [API Django](https://github.com/douglasinforj/django-api) | Django REST Framework |
+
+---
+
 # 📫 Contato
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;"> 
