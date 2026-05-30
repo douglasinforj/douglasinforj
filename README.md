@@ -79,7 +79,15 @@ Também possuo experiência com infraestrutura e ambientes server, trabalhando c
 
 | Projeto | Tecnologias |
 |----------|------------|
-| [vendas_ia_mcp_java](https://github.com/douglasinforj/vendas_ia_mcp_java) | Java Core, JDBC Puro, Maven, MySQL, Arquitetura em Camadas (Model-Repository-Service), MCP Tools(10), JUnit 5 Teste unitários e Integração, Mockito, Logback |   
+| [vendas_ia_mcp_java](https://github.com/douglasinforj/vendas_ia_mcp_java) | Banco de dados relacional modelado profissionalmente
+Java puro com JDBC — sem framework - tudo na mão,
+Arquitetura em camadas Model → Repository → Service,
+Transação atômica com commit e rollback,
+MCP Server com 10 tools analíticas e de negócio,
+Integração validada com Claude Desktop,
+Testes com JUnit 5 e Mockito,
+Relatório HTML de testes com Surefire,
+README completo no GitHub |   
 
 
 ---
