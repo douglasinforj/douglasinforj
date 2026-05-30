@@ -83,7 +83,7 @@ Também possuo experiência com infraestrutura e ambientes server, trabalhando c
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/douglas-roberto-da-silva-a99131388/" target="_blank">
+<a href="https://www.linkedin.com/in/douglas-r-silva-73a108411/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
