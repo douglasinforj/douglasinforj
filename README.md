@@ -1,8 +1,8 @@
 # Douglas R. Silva
 
-Backend Developer focado em construção de APIs, automações e aplicações web utilizando Java, Spring Boot, Python, Django e Node.js.
+Desenvolvedor Java Junior
 
-Tenho cerca de 2 anos de experiência prática desenvolvendo projetos pessoais, sistemas web e integrações. Minha atuação é voltada principalmente para backend, arquitetura de APIs, banco de dados e infraestrutura, mas também possuo conhecimento em frontend para construção de interfaces funcionais e integrações completas.
+Tenho cerca de 2 anos de experiência prática desenvolvendo projetos pessoais, sistemas web e integrações. Minha atuação é voltada principalmente para backend, arquitetura de APIs, banco de dados e infraestrutura, mas também possuo conhecimento em frontend para construção de interfaces funcionais e integrações.
 
 Também possuo experiência com infraestrutura e ambientes server, trabalhando com Linux, Windows Server, Docker, Nginx, bancos de dados relacionais e deploy de aplicações.
 
@@ -10,8 +10,8 @@ Também possuo experiência com infraestrutura e ambientes server, trabalhando c
 
 ## 🚀 Tecnologias e Foco Atual
 
-- Desenvolvimento Backend com Java + Spring Boot
-- APIs REST com Django REST Framework e Node.js
+- Desenvolvimento Backend com Java
+- Python + Django REST Framework e Node.js
 - Integração entre sistemas e automações
 - Banco de Dados SQL e modelagem
 - Docker e ambientes Linux
@@ -22,9 +22,9 @@ Também possuo experiência com infraestrutura e ambientes server, trabalhando c
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasinforj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=douglasinforj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasinforj&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=douglasinforj&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
