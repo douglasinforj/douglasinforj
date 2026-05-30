@@ -100,7 +100,7 @@ Também possuo experiência com infraestrutura e ambientes server, trabalhando c
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
-<a href="https://curriculoonline-8477a0py4-douglasitpros-projects.vercel.app" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/Currículo_Online-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
