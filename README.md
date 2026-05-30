@@ -79,9 +79,8 @@ Também possuo experiência com infraestrutura e ambientes server, trabalhando c
 
 | Projeto | Tecnologias |
 |----------|------------|
-| [vendas_ia_mcp_java](https://github.com/douglasinforj/vendas_ia_mcp_java) | Java, Spring Boot, MySQL |   
-| [API JWT](https://github.com/douglasinforj/api-jwt) | Spring Security, JWT |
-| [API Django](https://github.com/douglasinforj/django-api) | Django REST Framework |
+| [vendas_ia_mcp_java](https://github.com/douglasinforj/vendas_ia_mcp_java) | Java Core, JDBC Puro, MySQL, Arquitetura em Camadas (Model-Repository-Service), MCP Tools(10), JUnit 5 Teste unitários e Integração |   
+
 
 ---
 
