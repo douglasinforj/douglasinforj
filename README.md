@@ -77,17 +77,12 @@ Também possuo experiência com infraestrutura e ambientes server, trabalhando c
 
 ### 🚀 Projetos Backend
 
-| Projeto | Tecnologias |
-|----------|------------|
-| [vendas_ia_mcp_java](https://github.com/douglasinforj/vendas_ia_mcp_java) | Banco de dados relacional modelado profissionalmente
-Java puro com JDBC — sem framework - tudo na mão,
-Arquitetura em camadas Model → Repository → Service,
-Transação atômica com commit e rollback,
-MCP Server com 10 tools analíticas e de negócio,
-Integração validada com Claude Desktop,
-Testes com JUnit 5 e Mockito,
-Relatório HTML de testes com Surefire,
-README completo no GitHub |   
+
+
+| Projeto                                                                   | Tecnologias                              | Destaques                                                                                                                                              |
+| ------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [vendas_ia_mcp_java](https://github.com/douglasinforj/vendas_ia_mcp_java) | Java, JDBC, MCP, MySQL, JUnit 5, Mockito | Arquitetura em camadas, transações com commit/rollback, MCP Server com 10 tools, integração com Claude Desktop, testes automatizados e relatórios HTML |
+
 
 
 ---
