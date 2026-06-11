@@ -87,6 +87,18 @@ Também possuo experiência com infraestrutura e ambientes server, trabalhando c
 
 ---
 
+### 🚀 Projetos Backend
+
+
+
+| Projeto                                                                   | Tecnologias                              | Destaques                                                                                                                                              |
+| ------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [totem_credenciamento](https://github.com/douglasinforj/totem_credenciamento) | JavaScript, NodeJS, HTML, tailwind css, MySQL  | Arquitetura em camadas, Sistema completo de credenciamento desenvolvido em Node.js + MySQL, com frontend responsivo em HTML/Tailwind CSS. Projetado para eventos de médio e grande porte, suportando múltiplos terminais simultâneos, impressão de etiquetas via rede, reconhecimento facial e envio de convites por email. |
+
+
+---
+
+
 # 📫 Contato
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;"> 
