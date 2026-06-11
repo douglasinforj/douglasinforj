@@ -87,7 +87,7 @@ Também possuo experiência com infraestrutura e ambientes server, trabalhando c
 
 ---
 
-### 🚀 Projetos Backend
+### 🚀 Projetos Full Stack
 
 
 
