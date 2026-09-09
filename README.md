@@ -20,13 +20,13 @@ Também possuo experiência com infraestrutura e ambientes server, trabalhando c
 ---
 
 ## 📊 Estatísticas GitHub
-
+<!--
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=douglasinforj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=douglasinforj&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
-
+-->
 ---
 
 # ⚙️ Backend Stack
